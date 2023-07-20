@@ -1,4 +1,4 @@
-# blog-login Admin Panel
+# Blog-login Admin Panel
 
 <div align="center" style="margin: 30px;">
     <a href="https://refine.dev">
@@ -35,6 +35,31 @@ Refine offers lots of out-of-the box functionality for rapid development, withou
     npm run start
 ```
 
+## Technologies Used
+
+- ReactJS
+- NPM
+- refine
+- Superbase
+-  Material UI
+- GitHub Actions
+- Netlify
+
+## Features
+
+- User Management
+- Dashboard.
+- Content Management System (CMS)
+- Data Management
+- simple and user-friendly interface
+- Page hosted via Netlify
+- GitHub Actions with Continuous Integration/Continuous Deployment (CI/CD)
+
+<p align="center">
+<a href="https://ibb.co/9NqLzVZ"><img src="https://i.ibb.co/0cfS8Fs/Screenshot-228.png" alt="Screenshot-228" border="0"></a>
+<a href="https://ibb.co/r4sjGHd"><img src="https://i.ibb.co/3Bz3ycR/Screenshot-230.png" alt="Screenshot-230" border="0"></a>
+</P>
+
 ## Learn More
 
 To learn more about **refine**, please check out the [Documentation](https://refine.dev/docs)
@@ -46,4 +71,4 @@ To learn more about **refine**, please check out the [Documentation](https://ref
 
 ## License
 
-MIT
+This project includes an MIT license attached to it. Details can be found in the LICENSE file.
